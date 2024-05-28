@@ -1,4 +1,4 @@
-## TWT Challenges
+# TWT Challenges
 TechWithTim (TWT) is a youtube channel where Tim has a Discord server in which there are **Weekly Coding Challenges**. So, I'm on a mission to complete maximum challenges form the server's channel.
 ***
 #### I'm doing the Challenges in 2 ways:
